@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\bee\main.c(102,28): warning C4477: "printf": в строке форматирования "%zu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "int"
+  C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\bee\main.c(102,28):
+  рекомендуется использовать "%u" в строке форматирования
+  C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\bee\main.c(102,28):
+  рекомендуется использовать "%I32u" в строке форматирования
+  
+C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\bee\main.c(122,51): warning C4020: read_file: слишком много фактических параметров
+C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\bee\main.c(260,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\bee\main.c(202): warning C4715: seach_email: значение возвращается не при всех путях выполнения
+C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\bee\main.c(211): warning C4715: search_kat: значение возвращается не при всех путях выполнения
+  bee.vcxproj -> C:\Users\home\source\repos\BIST232_Sumin_KursovaiV2.0\x64\Debug\bee.exe
